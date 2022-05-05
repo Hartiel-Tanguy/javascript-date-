@@ -1,0 +1,51 @@
+body{
+    display:flex ;
+    padding-top: 10%;
+    padding-left: 15%;
+    background-color: gray;
+    
+}
+.heu{
+    display: flex;
+    font-size: 100px;
+    padding-top: 17%;
+    padding-left: 20%;
+
+    
+}
+
+.dat{
+    font-size: 70px;
+    text-align: center;
+    width: 300px;
+
+    
+    
+}
+
+#p1,#p3{
+    background-color: red;
+    font-size: 80px;
+    border: 1px solid rgb(0, 0, 0);
+    color: aliceblue;
+    
+}
+#p1{
+    border-radius: 50% 50% 0% 0%;
+}
+
+#p3{
+    border-radius: 0% 0% 50% 50%;
+}
+
+.mil{
+    border: 1px solid;
+    margin-top: -80px;
+    margin-bottom: -80px;
+    background-color: white;
+    color: gray;
+}
+
+
+
+
