@@ -8,3 +8,4 @@ function Date(){
     let date2 = new Date('1980-01-23')
     console.log((now.getTime()-date2.getTime())/(1000*60*60*24))
 }
+
